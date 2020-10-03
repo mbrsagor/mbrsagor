@@ -1,4 +1,7 @@
-### Hi there I'm Bozlur Rosid Sagor
+### Hi there, I'm Bozlur Rosid Sagor
+
+> About Me
+I'm a professional software engineer 2 year solid experience software development. Currently working on python popular web framework Django, Flask and REST API and also frontend javascript framework Angular.js & React.js. I've extensive experience creating REST API, SPA, Server Management, and version contrl systems like Github, BitBucket, GitLab, etc. Technologies that I love working with Python, Django, Flask, Celery, HTML5, CSS3, Bootstrap, Javascript, React.js, Angular.js, TypeScript, WordPress, Ngnix, etc.
 
 <!--
 **mbrsagor/mbrsagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

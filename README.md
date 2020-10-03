@@ -6,7 +6,14 @@
 - Full Stack Software Development
 - Front-end Web Development
 - Back-end System Development
-- Mobile Apps Development
+- Devops Development
+
+###### Tools
+-  - Python, Django, Flask, RESTful APIs, Dart, Swift.
+-  - HTML5, CSS3, Bootstrap, Tailwindcss, Wordpress.
+-  - JavaScript, AngularJS, React, TypeScript.
+-  - SQL, NoSQL, Redis, Database.
+-  - Celery, Docker, EC2.
 
 <!--
 **mbrsagor/mbrsagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,12 +9,24 @@
 - Devops Development
 
 ###### Tools
--  -Python, Django, Flask, RESTful APIs, Dart, Swift.
--  -HTML5, CSS3, Bootstrap, Tailwindcss, Wordpress.
--  -JavaScript, AngularJS, React, TypeScript.
--  -SQL, NoSQL, Redis, Database.
--  -Celery, Docker, EC2.
--  -Git, GitHub, BitBucket, GitLab.
+-  Python, Django, Flask, RESTful APIs, Dart, Swift.
+-  HTML5, CSS3, Bootstrap, Tailwindcss, Wordpress.
+-  JavaScript, AngularJS, React, TypeScript.
+-  SQL, NoSQL, Mysql, MongoDB.
+-  Celery, Docker, EC2.
+-  Git, GitHub, BitBucket, GitLab.
+
+###### Data-structure & algorithms
+- Stack
+- Queue
+- Linked list
+- Bainary search
+- Linear search
+- Fibonacci series
+- Sorting algorithms
+  - selection sort
+  - Insertion sort
+  - Bubble sort
 
 <!--
 **mbrsagor/mbrsagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

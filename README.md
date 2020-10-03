@@ -1,6 +1,6 @@
 ### Hi there, I'm Bozlur Rosid Sagor
 
-> Hello this is Bozlur Rosid Sagor from Dhaka-Bangladesh. I'm a professional software engineer with 2 year solid experiences in software development (Back-end/Front-end/DevOps).
+> Hello this is Bozlur Rosid Sagor from Dhaka-Bangladesh. I have completed my diploma from Sirajganj textile college in a textile subject but my career is going to the software development field. I'm a professional software engineer with 2 year solid experiences in software development (Back-end/Front-end/DevOps).
 
 ###### Areas of Expertise
 - Full Stack Software Development

@@ -11,6 +11,7 @@
 ###### Tools
 -  Python, Django, Flask, RESTful APIs, Dart, Swift.
 -  HTML5, CSS3, Bootstrap, Tailwindcss, Wordpress.
+-  Responsive web design.
 -  JavaScript, AngularJS, React, TypeScript.
 -  SQL, NoSQL, Mysql, MongoDB.
 -  Celery, Docker, EC2.

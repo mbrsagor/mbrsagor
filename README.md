@@ -5,3 +5,4 @@
 - 🔭 I’m currently working at Freelance Market.
 - 🌱 I’m currently learning all I can.
 - 👯 I’m looking to collaborate on open source, especially OSPOs, inclusion and metrics in open source.
+- 💻  ✍️ ❤️ Programmer ~/ Writer ~/ Lover.

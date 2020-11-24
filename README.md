@@ -4,5 +4,5 @@
 
 - 🔭 Experience frontend development life cycle.
 - 🌱 Experience backendend development life cycle.
-- 👯 Good knowledge in database sql and nosql db like Mysql, Postgresql, & MongoDB.
+- 👯 Good knowledge in databases sql and nosql db like Mysql, Postgresql, & MongoDB.
 - 💻  ✍️  ❤️  Programmer ~/ Writer ~/ Lover.

@@ -17,7 +17,7 @@
 **🛠 &nbsp; Technologies Stack:**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -27,5 +27,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
+![Responsive](https://img.shields.io/badge/-Responsive-333333?style=flat&logo=responsive)&nbsp;
 <br/>

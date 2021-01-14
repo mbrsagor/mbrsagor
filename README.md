@@ -17,15 +17,15 @@
 **🛠 &nbsp; Technologies Stack:**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Responsive](https://img.shields.io/badge/-Responsive-333333?style=flat&logo=responsive)&nbsp;
 <br/>

@@ -51,7 +51,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbrsagor&repo=single-node-k8s-workspace-vagrant)](https://github.com/mbrsagor/single-node-k8s-workspace-vagrant)
 -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrsagor&layout=compact&bg_color=00000000&text_color=043667)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/mbrsagor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbrsagor&show_icons=true&theme=merko" alt="Sagor's github stats"/> 
 </a>

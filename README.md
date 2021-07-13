@@ -10,33 +10,6 @@
 
 
 
-**🛠 &nbsp; Tools & Technologies Stack:**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![Angular.JS](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-![MySql](https://img.shields.io/badge/-MySql-black?style=plastic&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![linux](https://img.shields.io/badge/-Linux-092E20?style=plastic&logo=Linux)
-<br/>
-
-
-
-
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbrsagor&repo=pizza-shop-for-innoscripta)](https://github.com/mbrsagor/pizza-shop-for-innoscripta)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbrsagor&repo=local-devops-pipeline-vagrant)](https://github.com/mbrsagor/local-devops-pipeline-vagrant)

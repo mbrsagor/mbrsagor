@@ -19,9 +19,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbrsagor&repo=single-node-k8s-workspace-vagrant)](https://github.com/mbrsagor/single-node-k8s-workspace-vagrant)
 -->
 
-
-## **My coding progress status -**
-
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mbrsagor&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
 

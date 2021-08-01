@@ -1,6 +1,6 @@
 ## About myself!
 ### Hi there 👋
-> This is Bozlur Rosid Sagor from Dhaka-Bangladesh I'm a full-stack software engineer. I've completed my diploma from Sirajganj Ideal textile engineering & institute in the textile subject but right now my career is going to software development(engineering) field.
+> This is Bozlur Rosid Sagor from Dhaka-Bangladesh I'm a software engineer. I've completed my diploma from Sirajganj Ideal textile engineering & institute in the textile subject but right now my career is going to software development(engineering) field.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mbrsagor/)
 [![Twitter: Follow](https://img.shields.io/twitter/follow/mbrsagor?style=social)](https://twitter.com/mbrsagor)

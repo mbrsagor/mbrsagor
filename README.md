@@ -1,6 +1,6 @@
 ## About myself!
 ### Hi there 👋
-> This is Bozlur Rosid Sagor from Dhaka-Bangladesh I'm a software engineer. I've completed my diploma from Sirajganj Ideal textile engineering & institute in the textile subject but right now my career is going to software development(engineering) field. I have good knowledge of Python, Django, Flask, JavaScript, Node.Js, Next.JS, React.JS, HTML, CSS, SCSS, Bootstrap, SQL, NoSQL. I'm not an expert at all but I know how to smartly implement/use projects and search google.
+> This is Bozlur Rosid Sagor from Dhaka-Bangladesh I'm a software engineer. I've completed my diploma from Sirajganj Ideal textile engineering & institute in the textile subject but right now my career is going to software development(engineering) field. I have good knowledge of Python, Django, Flask, JavaScript, Node.Js, Next.JS, React.JS, HTML, CSS, SCSS, Bootstrap, SQL, NoSQL. I'm not an expert at all but I know how to smartly implement and well-structured use projects and search google.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mbrsagor/)
 [![Twitter: Follow](https://img.shields.io/twitter/follow/mbrsagor?style=social)](https://twitter.com/mbrsagor)

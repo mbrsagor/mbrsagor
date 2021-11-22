@@ -19,13 +19,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbrsagor&repo=single-node-k8s-workspace-vagrant)](https://github.com/mbrsagor/single-node-k8s-workspace-vagrant)
 -->
 
-<!--
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mbrsagor&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbrsagor&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
 
 </p>
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=mbrsagor&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">

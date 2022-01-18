@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=mbrsagor&theme=andromeda"  />
+<img src = "https://activity-graph.herokuapp.com/graph?username=mbrsagor&theme=redical"  />
 </p>
 
 

@@ -7,7 +7,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mbrsagor/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:brshagor.cse@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![PyPi Package](https://badgen.net/pypi/v/pip/)](https://pypi.org/user/mbrsagor)
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mbrsagor)](https://medium.com/@jobowonubi)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mbrsagor)](https://medium.com/@mbrsagor)
 [![website](https://img.shields.io/badge/MyBlog-2648ff?style=flat-square&logo=google-chrome)](http://mbrsagorbd.wordpress.com)
 
 

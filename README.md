@@ -1,6 +1,6 @@
 ## About myself!
 ### Hi there 👋
-> This is Bozlur Rosid Sagor from Dhaka-Bangladesh I'm a professional software engineer. I completed my diploma from Textile Engineering & Institute, but right now my career is going to the software engineering field. I'm studying computer science and engineering (CSE) at the Asian University of Bangladesh (AUB). I have good knowledge of Python, Django, FastAPI, RestAPI, JavaScript, React.js, Docker, HTML5, CSS3, SCSS, Bootstrap, SQL, and AWS.
+> This is Bozlur Rosid Sagor from Dhaka, Bangladesh. I'm a professional software engineer. I completed my diploma in Textile Engineering, but my career is currently moving into the software engineering field. I'm studying computer science and engineering (CSE) at the Asian University of Bangladesh (AUB). I have a strong knowledge of Python, Django, FastAPI, REST API, JavaScript, React.js, Docker, HTML5, CSS3, SCSS, Bootstrap, SQL, and AWS.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mbrsagor/)
 [![Twitter: Follow](https://img.shields.io/twitter/follow/mbrsagor?style=social)](https://twitter.com/mbrsagor)
